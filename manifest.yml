@@ -1,0 +1,4 @@
+applications:
+- name: db-service
+  instances: 1
+  random-route: true
